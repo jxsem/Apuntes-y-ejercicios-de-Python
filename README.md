@@ -5,5 +5,5 @@ Contenido
 - **Fundamentos de Python**: Sintaxis básica, tipos de datos, estructuras de control, funciones.
 - **Programación Orientada a Objetos**: Clases, objetos, herencia, polimorfismo.
 - **Módulos y Paquetes**: Uso y creación de módulos, instalación de paquetes.
-- **Bibliotecas y Frameworks**: Ejemplos de uso de bibliotecas populares como `numpy`, `pandas`, `matplotlib`.
+- **Librerias y Frameworks**: Django, Flask y Tkinter .
 - **Buenas Prácticas**: Estilo de código, manejo de errores, pruebas.
